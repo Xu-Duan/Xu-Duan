@@ -15,7 +15,7 @@ I would describe myself as a enthusiastic and curious person, always looking to 
 <p align="center" style="font-weight:bold"> 🎓 <b> My Education </b> 🎓 <p>
 
 - ⚙️ Master of Science in Mathematical Engineering, Computational Science and Computational Learning at Politecnico di Milano
-- 🎓 Bachelor of Engineering in Ocean Engineering at Shanghai Jiao Tong University ![SJTU](https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University#/media/File:Sjtu-logo-standard-red.png)
+- 🎓 Bachelor of Engineering in Ocean Engineering at Shanghai Jiao Tong University ([https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University#/media/File:Sjtu-logo-standard-red.png](https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_723/v1/websites4/live-prod/ysph/admissions/programs/mph/international_joint/Sjtu2_307345_38742_v5.jpg))
   
 ---
 <p align="center" style="font-weight:bold"> 🔨 <b> Projects Topics </b> 🔨 <p>
