@@ -7,16 +7,15 @@
 ---
 <p align="center" style="font-weight:bold"> ⚡ <b> About Me </b> ⚡ <p>
 
-I am Luca Sosta, a Master's Degree student in Mathematical Engineering in the Computational Science and Computational Learning at Politecnico di Milano. My studies and master thesis are currently focused on Physics Informed Deep Learning. I'm also interested in Machine Learning and Numerical Analysis
+I am Xu Duan, a Master's Degree student in Mechanical Engineering at The University of Texas at Austin. My studies are focused on Computational Science. I'm also interested in Machine Learning and Numerical Analysis.
 
 I would describe myself as a enthusiastic and curious person, always looking to new problems to solve.
-I'm a fast learner who love working in team, in particular in association and long-term projects, where I can put all my experience and see the growth of my work.
 
 ---
 <p align="center" style="font-weight:bold"> 🎓 <b> My Education </b> 🎓 <p>
 
 - ⚙️ Master of Science in Mathematical Engineering, Computational Science and Computational Learning at Politecnico di Milano
-- 🎓 Bachelor of Science in Mathematical Engineering at Politecnico di Milano
+- 🎓 Bachelor of Engineering in Ocean Engineering at Shanghai Jiao Tong University ![SJTU](https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University#/media/File:Sjtu-logo-standard-red.png)
   
 ---
 <p align="center" style="font-weight:bold"> 🔨 <b> Projects Topics </b> 🔨 <p>
